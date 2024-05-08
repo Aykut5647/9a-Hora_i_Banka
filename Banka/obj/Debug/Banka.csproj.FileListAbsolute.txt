@@ -1,0 +1,7 @@
+C:\Aykut 9a\Banka\bin\Debug\Banka.exe.config
+C:\Aykut 9a\Banka\bin\Debug\Banka.exe
+C:\Aykut 9a\Banka\bin\Debug\Banka.pdb
+C:\Aykut 9a\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache
+C:\Aykut 9a\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Aykut 9a\Banka\obj\Debug\Banka.exe
+C:\Aykut 9a\Banka\obj\Debug\Banka.pdb

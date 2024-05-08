@@ -1,0 +1,7 @@
+C:\Aykut 9a\Hora\bin\Debug\Hora.exe.config
+C:\Aykut 9a\Hora\bin\Debug\Hora.exe
+C:\Aykut 9a\Hora\bin\Debug\Hora.pdb
+C:\Aykut 9a\Hora\obj\Debug\Hora.csproj.AssemblyReference.cache
+C:\Aykut 9a\Hora\obj\Debug\Hora.csproj.CoreCompileInputs.cache
+C:\Aykut 9a\Hora\obj\Debug\Hora.exe
+C:\Aykut 9a\Hora\obj\Debug\Hora.pdb
